@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ignotes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="create_button_text">Create</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="name_required">Name is required</string>
+    <string name="content_required">Content is required</string>
+    <string name="created">Note created</string>
+    <string name="delete_not_available">No notes available</string>
+    <string name="deleted">Note deleted</string>
+</resources>
